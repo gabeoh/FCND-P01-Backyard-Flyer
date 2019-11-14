@@ -83,7 +83,7 @@ $ python backyard_flyer.py
 ![FC_BackyardFlyer_Recording_2019-11-14.gif](results/FC_BackyardFlyer_Recording_2019-11-14.gif)
 
 * Flight Logs
-    *  [TLog_2019-11-14_01.txt](TLog_2019-11-14_01.txt)
+    *  [TLog_2019-11-14_01.txt](results/TLog_2019-11-14_01.txt)
     
 ### Reference
 * [Udacity Backyard Flyer Project Intro](https://github.com/udacity/FCND-Backyard-Flyer)
