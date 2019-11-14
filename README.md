@@ -7,13 +7,9 @@ The communication with the UAV is done using MAVLink.  This implementation
 can be used to control PX4 quadcopter autopilot with little modification.
 
 ## File Structure
-
 ### Project Source Files
-
-### Project Report
-
-### Other Support Files
-
+* [`backyard_flyer.py`](backyard_flyer.py) - event-driven program
+that autonomously flies UAV for a given mission 
 
 ## Getting Started
 ### [Download ZIP](https://github.com/gabeoh/FCND-P01-Backyard-Flyer/archive/master.zip) or Git Clone
@@ -75,6 +71,17 @@ Then, run the following command to perform the mission flight.
 ```
 $ python backyard_flyer.py 
 ```
+
+## Project Report
+### State Diagram
+![State Diagram](FC_BackyardFlyer_StateDiagram_2019-11-14.png)
+
+### Results
+* Video Recording: [FC_BackyardFlyer_Recording_2019-11-14.mp4](FC_BackyardFlyer_Recording_2019-11-14.mp4)
+
+### Reference
+* Udacity Backyard Flyer project intro
+    * https://github.com/udacity/FCND-Backyard-Flyer
 
 ## License
 Licensed under [MIT](LICENSE) License.
