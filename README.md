@@ -77,11 +77,16 @@ $ python backyard_flyer.py
 ![State Diagram](FC_BackyardFlyer_StateDiagram_2019-11-14.png)
 
 ### Results
-* Video Recording: [FC_BackyardFlyer_Recording_2019-11-14.mp4](FC_BackyardFlyer_Recording_2019-11-14.mp4)
+* Simlation Recording
+    * [FC_BackyardFlyer_Recording_2019-11-14.mp4](FC_BackyardFlyer_Recording_2019-11-14.mp4)
 
+![FC_BackyardFlyer_Recording_2019-11-14.gif](results/FC_BackyardFlyer_Recording_2019-11-14.gif)
+
+* Flight Logs
+    *  [TLog_2019-11-14_01.txt](TLog_2019-11-14_01.txt)
+    
 ### Reference
-* Udacity Backyard Flyer project intro
-    * https://github.com/udacity/FCND-Backyard-Flyer
+* [Udacity Backyard Flyer Project Intro](https://github.com/udacity/FCND-Backyard-Flyer)
 
 ## License
 Licensed under [MIT](LICENSE) License.
