@@ -78,7 +78,7 @@ $ python backyard_flyer.py
 
 ### Results
 * Simlation Recording
-    * [FC_BackyardFlyer_Recording_2019-11-14.mp4](FC_BackyardFlyer_Recording_2019-11-14.mp4)
+    * [FC_BackyardFlyer_Recording_2019-11-14.mp4](results/FC_BackyardFlyer_Recording_2019-11-14.mp4)
 
 ![FC_BackyardFlyer_Recording_2019-11-14.gif](results/FC_BackyardFlyer_Recording_2019-11-14.gif)
 
